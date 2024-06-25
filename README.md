@@ -1,4 +1,3 @@
-```markdown
 # Node.js REST API with PostgreSQL and TypeScript
 
 This project is a simple REST API built using Node.js, PostgreSQL, and TypeScript.
