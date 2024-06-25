@@ -62,7 +62,7 @@ The server will start on the port specified in the `.env` file.
 #### Create a User
 
 ```bash
-curl -X POST http://localhost:8000/users -H "Content-Type: application/json" -d '{"name":"John Doe","email":"john@example.com"}'
+curl -X POST http://localhost:8000/users -H "Content-Type: application/json" -d '{"fullname":"John Doe","email":"john@example.com, "password": "example"}'
 ```
 
 #### Get All Users
