@@ -17,13 +17,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/UlviParviz/nodejs-restapi-postegres-ts.git
+git clone https://github.com/UlviParviz/nodejs-restapi-postgres-ts.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd nodejs-restapi-postegres-ts
+cd nodejs-restapi-postgres-ts
 ```
 
 3. Install the dependencies:
